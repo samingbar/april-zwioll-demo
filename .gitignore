@@ -1,0 +1,7 @@
+node_modules/
+dist/
+data/read-model.json
+.DS_Store
+*.log
+*.tsbuildinfo
+.playwright-cli/
